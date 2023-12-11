@@ -7,7 +7,7 @@
 
 import Foundation
 
-public struct CategoryResponse: Codable {
+public struct CategoryResponse: Codable, Hashable {
   public let id: UUID
   public let title: String
   public let colorCode: String
