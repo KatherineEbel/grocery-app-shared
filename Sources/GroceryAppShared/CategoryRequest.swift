@@ -7,7 +7,7 @@
 
 import Foundation
 
-public struct CreateCategoryRequest: Codable {
+public struct CategoryRequest: Codable {
   public let title: String
   public let colorCode: String
   
