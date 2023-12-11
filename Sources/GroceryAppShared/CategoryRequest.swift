@@ -1,5 +1,5 @@
 //
-//  CreateCategoryRequest.swift
+//  CategoryRequest.swift
 //
 //
 //  Created by Katherine Ebel on 12/10/23.
